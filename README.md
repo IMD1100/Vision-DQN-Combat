@@ -16,8 +16,7 @@
 ## 📥 安装与依赖
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/your-repo/auto-combat-system.git
-   cd auto-combat-system
+   git clone https://github.com/IMD1100/Vision-DQN-Combat.git
 
 2. **安装依赖**：
    ```bash

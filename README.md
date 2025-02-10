@@ -24,7 +24,7 @@
    pip install -r requirements.txt
 
 3. **配置游戏环境**：
-   - 在运行主程序之前，确保先启动《死神vs火影》，并手动选择到SINGLE VS PEOPLE模式或SINGLE VS CPU模式选择角色界面，取决于实际训练需求，在environment/game_env中更改。
+   - 在运行主程序之前，确保先启动《死神vs火影》3.0（bvn_3.0），并手动选择到SINGLE VS PEOPLE模式或SINGLE VS CPU模式选择角色界面，取决于实际训练需求，在environment/game_env中更改。
    - 使用游戏默认分辨率，系统分辨率推荐设置为2560x1600，如需更改，需同时更改部分窗口大小参数。
 
 ---
